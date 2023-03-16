@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678424804 source:d:\prog_course\iti_3_months\oop\labs\day_4\struct\gotoxy_shape_2\gotoxy_shape_2\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
